@@ -1,0 +1,56 @@
+.card-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.card-container img{
+ margin: auto;
+}
+
+
+.history-text-content-2-row{
+    width: 90%;
+}
+
+.history-side-points{
+    padding-left: 3%;
+}
+
+
+
+    /* for tablets  */
+    @media (min-width: 768px) and (max-width: 1023px) {
+    
+        .card-container{
+            margin-top: 5%;
+            padding-top: 2%;
+        }
+        .card-container img{
+            width: 90%;
+            margin: auto;
+        }
+         
+
+    }
+
+
+    /* responsive code for mobile view  */
+
+
+@media (max-width: 767px) {
+    
+
+    .card-container{
+        margin-top: 5%;
+        padding-top: 2%;
+    }
+    .card-container img{
+        width: 80;
+        margin: auto;
+    }
+
+    .mobile-card{
+        display: none;
+    }
+
+
+}

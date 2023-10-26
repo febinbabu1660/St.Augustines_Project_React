@@ -1,0 +1,429 @@
+
+.cards{
+    border: none !important;
+}
+
+.card{
+    border: none !important;
+
+}
+
+.Cards-div{
+    padding: 2% 10%;
+
+}
+
+.card2{
+    border-radius: 2.25rem;
+    background: #003049;
+    flex-shrink: 0;
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+.second-cards{
+    margin-top: 5%;
+}
+
+
+.regions{
+    padding: 0% 3%;
+}
+
+.region-row-1{
+    margin-top: 7%;
+}
+
+.card-region-1{
+    background: #780000;
+    border-radius: 0 0 2.25rem 2.25rem;
+
+}
+.card-region-2{
+    background: #003049;
+    border-radius: 0 0 2.25rem 2.25rem;
+}
+
+
+.where-card-title-2{
+    color: #ffffff !important;
+    text-align: center;
+    font-family: Abril Fatface;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.where-card-text{
+    color: #ffffff;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1rem !important;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 2% !important;
+    padding-bottom: 1%;
+    width: 75%;
+    margin: auto;
+}
+
+.where-card-title{
+    color: #FFF !important;
+    text-align: center;
+    font-family: Abril Fatface;
+    font-size: 2.5rem !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.fa-ellipsis{
+    width: 2.56244rem;
+    height: 0.64081rem;
+    flex-shrink: 0;
+    font-size: 3.5rem;
+    text-align: center;
+    padding-left: 45%;
+}
+
+.card-region-row-2{
+    border-radius: 2.25rem;
+    background: #003049;
+    flex-shrink: 0;
+}
+
+.card-header{
+    color: #FFF;
+    text-align: center;
+    font-family: Abril Fatface;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.region-row-2{
+    color: #FFF;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 0.9375rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+    width: 50%;
+    padding: 5%;
+}
+
+.card-img-top2{
+    width: 100%;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+    /* for tablets  */
+    @media (min-width: 768px) and (max-width: 1023px) {
+    
+
+
+
+        .cards{
+            border: none !important;
+        }
+        
+        .card{
+            border: none !important;
+        
+        }
+        
+        .Cards-div{
+            padding: 2% 10%;
+        
+        }
+        
+        .card2{
+            border-radius: 2.25rem;
+            background: #003049;
+            flex-shrink: 0;
+            padding-left: 0;
+            padding-right: 0;
+        
+        }
+        
+        .second-cards{
+            margin-top: 5%;
+        }
+        
+        
+        .regions{
+            padding: 0% 3%;
+        }
+        
+        .region-row-1{
+            margin-top: 7%;
+        }
+        
+        .card-region-1{
+            background: #780000;
+            border-radius: 0 0 2.25rem 2.25rem;
+        
+        }
+        .card-region-2{
+            background: #003049;
+            border-radius: 0 0 2.25rem 2.25rem;
+        }
+        
+        
+        .where-card-title-2{
+            color: #ffffff !important;
+            text-align: center;
+            font-family: Abril Fatface;
+            font-size: 1.4rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+        
+        
+        .where-card-text{
+            color: #ffffff;
+            text-align: center;
+            font-family: Raleway;
+            font-size: 0.725rem !important;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+            padding-top: 2% !important;
+            padding-bottom: 1%;
+            width: 75%;
+            margin: auto;
+        }
+        
+        .where-card-title{
+            color: #FFF !important;
+            text-align: center;
+            font-family: Abril Fatface;
+            font-size: 0.999rem !important;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        }
+        
+        .fa-ellipsis{
+            width: 2.56244rem;
+            height: 0.64081rem;
+            flex-shrink: 0;
+            font-size: 3.5rem;
+            text-align: center;
+            padding-left: 45%;
+        }
+        
+        .card-region-row-2{
+            border-radius: 2.25rem;
+            background: #003049;
+            flex-shrink: 0;
+        }
+        
+        .card-header{
+            color: #FFF;
+            text-align: center;
+            font-family: Abril Fatface;
+            font-size: 2.5rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            padding-top: 5%;
+            padding-bottom: 5%;
+        }
+        .region-row-2{
+            color: #FFF;
+            text-align: center;
+            font-family: Raleway;
+            font-size: 0.9375rem;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+        
+            width: 50%;
+            padding: 5%;
+        }
+        
+        .card-img-top2{
+            width: 100%;
+            padding: 0;
+        }
+        
+        
+        
+        
+        
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* responsive code for mobile view  */
+
+
+@media (max-width: 767px) {
+    
+
+    .cards{
+        border: none !important;
+    }
+    
+    .card{
+        border: none !important;
+    
+    }
+    
+    .Cards-div{
+        padding: 2% 10%;
+    
+    }
+    
+    .card2{
+        border-radius: 2.25rem;
+        background: #003049;
+        flex-shrink: 0;
+        padding-left: 0;
+        padding-right: 0;
+    
+    }
+    
+    .second-cards{
+        margin-top: 5%;
+    }
+    
+    
+    .regions{
+        padding: 0% 3%;
+    }
+    
+    .region-row-1{
+        margin-top: 7%;
+    }
+    
+    .card-region-1{
+        background: #780000;
+        border-radius: 0 0 2.25rem 2.25rem;
+    
+    }
+    .card-region-2{
+        background: #003049;
+        border-radius: 0 0 2.25rem 2.25rem;
+    }
+    
+    
+    .where-card-title-2{
+        color: #ffffff !important;
+        text-align: center;
+        font-family: Abril Fatface;
+        font-size: 1.1rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+
+    }
+    
+    
+    .where-card-text{
+        font-size: 0.976rem !important;
+        padding-top: 2% !important;
+        padding-bottom: 1%;
+        width: 100%;
+        margin: auto;
+    }
+    
+    .where-card-title{
+        color: #FFF !important;
+        text-align: center;
+        font-family: Abril Fatface;
+        font-size: 1.1rem !important;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    
+    .fa-ellipsis{
+        width: 2.56244rem;
+        height: 0.64081rem;
+        flex-shrink: 0;
+        font-size: 3.5rem;
+        text-align: center;
+        padding-left: 45%;
+    }
+    
+    .card-region-row-2{
+        border-radius: 2.25rem;
+        background: #003049;
+        flex-shrink: 0;
+    }
+    
+    .card-header{
+        color: #FFF;
+        text-align: center;
+        font-family: Abril Fatface;
+        font-size: 1.1rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .region-row-2{
+        color: #FFF;
+        text-align: center;
+        font-family: Raleway;
+        font-size: 0.975rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    
+        width: 90%;
+        padding: 5%;
+    }
+    
+    .card-img-top2{
+        width: 100%;
+        padding: 0;
+    }
+    
+    
+    
+
+
+
+}

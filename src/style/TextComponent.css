@@ -1,0 +1,959 @@
+
+
+
+/* styles for home page text component  */
+
+.writings{
+    padding: 3% 10% !important;
+}
+
+.writings h1{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: auto;
+    width: 70%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.writings p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 90%;
+    text-align: justify;
+    padding-top: 3%;
+    padding-bottom: 2%;
+
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* where we are page styles web view  */
+.Second-content{
+    padding: 4% 10%;
+    margin: auto;
+    width: 100%;
+
+}
+
+.Second-content h1{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 5.9375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+
+}
+
+.Second-content p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 1.875rem */
+    padding-bottom: 2%;
+}
+
+
+.Fourth-content{
+    padding: 4% 10%;
+    margin: auto;
+    width: 100%;
+
+}
+
+.Fourth-content h1{
+    color: #780000;
+    text-align: center;
+    font-family: PT Serif;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.Fourth-content p{
+    color: #003049;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+    
+}
+
+
+
+
+/* styles for spirituality page  */
+
+.spirituality-second-content{
+    width: 100%;
+    padding-top: 13%;
+}
+
+.spirituality-second-content h1{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: center;
+}
+
+.spirituality-second-content p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: justify;
+    padding-top: 3%;
+}
+
+
+
+.spirituality-last-text{
+    width: 100%;
+
+}
+
+.spirituality-last-text h1{
+    width: 70%;
+    margin: auto;
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 3.625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 5.4375rem */
+    padding-top: 5%;
+}
+
+.spirituality-last-text p{
+
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: justify;
+    width: 100%;
+    padding-top: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* history page styles  */
+
+
+
+.history-text-content1{
+    background-color: #003049;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.history-text-content1 h1{
+    color: #FFF;
+    font-family: Abril Fatface;
+    font-size: 4.375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+
+.history-text-content1 p{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 1%;
+    padding-bottom: 4%;
+    text-align: justify;
+    width: 100%;
+}
+
+.history-text-content2{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    width: 100% !important;
+}
+
+.history-text-content2 h1{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 3.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.history-text-content2 p{
+    color: #000;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: justify;
+    padding-top: 2%;
+    width: 95%;
+
+}   
+
+/* styles for vocations page  */
+
+.vocations-second-section{
+    margin: auto;
+    text-align: center;
+}
+
+.vocations-second-section h1{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.vocations-second-section p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+/* styles for  family page  */
+
+.family-last-content{
+    width: 100%;
+    margin: auto;
+    padding-bottom: 5%;
+}
+
+.family-last-content h1{
+    color: #003049;
+    text-align: center;
+    font-family: Abril Fatface;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    margin: auto;
+}
+
+.family-last-content p{
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: center;
+    margin: auto;
+    padding-top: 3%;
+}
+
+/* contactus page  */
+
+.contactus-last-content{
+    width: 100%;
+    padding-top: 4%;
+    
+}
+
+.contactus-last-content h1{
+    color: #000;
+    font-family: Abril Fatface;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center; 
+}
+
+.contactus-last-content p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: justify;
+}
+
+
+    /* for tablets  */
+@media (min-width: 768px) and (max-width: 1023px) {
+    
+
+
+/* styles for home page text component  */
+
+.writings{
+    padding: 5% 10%;
+}
+
+.writings h1{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 2.1875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: auto;
+    width: 70%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.writings p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 0.9375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 90%;
+    text-align: justify;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+    /* styles for history page tab view  */
+
+
+    
+
+.history-text-content1{
+    background-color: #003049;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.history-text-content1 h1{
+    font-size: 2.375rem;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+
+.history-text-content1 p{
+    font-size: 1.25rem;
+    padding-top: 2%;
+    padding-bottom: 4%;
+    text-align: justify;
+}
+
+.history-text-content2{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+.history-text-content2 h1{
+    font-size: 1.975rem;
+    width: 90%;
+}
+
+.history-text-content2 p{
+    font-size: 1.1rem;
+    padding-top: 2%;
+
+}
+
+
+/* styles for vocations page  */
+
+.vocations-second-section{
+    margin: auto;
+    text-align: center;
+}
+
+.vocations-second-section h1{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 2.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.vocations-second-section p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+
+
+
+
+
+
+/* styles for spirituality page  */
+
+.spirituality-second-content{
+    width: 100%;
+    padding-top: 13%;
+}
+
+.spirituality-second-content h1{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 2.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: center;
+}
+
+.spirituality-second-content p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: justify;
+    padding-top: 3%;
+}
+
+
+
+
+.spirituality-last-text{
+    width: 100%;
+
+}
+
+.spirituality-last-text h1{
+    width: 100%;
+    margin: auto;
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 2.425rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 5.4375rem */
+    padding-top: 2%;
+    text-align: center;
+}
+
+.spirituality-last-text p{
+
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: justify;
+    width: 100%;
+    padding-top: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+/* where we are page styles tab view  */
+
+
+.Second-content{
+    padding: 4% 10%;
+    margin: auto;
+    width: 100%;
+
+}
+
+.Second-content h1{
+    font-size: 3.9375rem;
+
+}
+
+.Second-content p{
+    font-size: 1.1rem;
+}
+
+
+.Fourth-content{
+    padding: 4% 10%;
+    margin: auto;
+    width: 100%;
+
+}
+
+.Fourth-content h1{
+    font-size: 2.125rem;
+}
+
+.Fourth-content p{
+    font-size: 1.25rem;
+    
+}
+
+
+
+/* styles for  family page  */
+
+.family-last-content{
+    width: 100%;
+    margin: auto;
+    padding-bottom: 5%;
+}
+
+.family-last-content h1{
+    color: #003049;
+    text-align: center;
+    font-family: Abril Fatface;
+    font-size: 2.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    margin: auto;
+}
+
+.family-last-content p{
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: center;
+    margin: auto;
+    padding-top: 3%;
+}
+
+
+
+
+/* contactus page  */
+
+.contactus-last-content{
+    width: 100%;
+    padding-top: 4%;
+    
+}
+
+.contactus-last-content h1{
+    font-size: 2.125rem;
+}
+
+.contactus-last-content p{
+    font-size: 1.1rem;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* responsive code for mobile view  */
+
+
+@media (max-width: 767px) {
+    
+
+
+    /* styles for history page in mobile view  */
+
+
+    
+
+
+.history-text-content1 h1{
+    font-size: 1.5rem;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+
+.history-text-content1 p{
+    font-size: 0.775rem;
+    padding-top: 2%;
+    padding-bottom: 4%;
+    text-align: justify;
+}
+
+.history-text-content2{
+    padding-left: 13% !important;
+    padding-right: 0% !important;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+.history-text-content2 h1{
+    font-size: 1.5rem;
+}
+
+.history-text-content2 p{
+    font-size: 0.775rem;
+    padding-top: 2%;
+
+}
+
+
+
+
+/* styles for home page text component  */
+
+.writings{
+    padding: 5% 5% !important;
+}
+
+.writings h1{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: auto;
+    width: 70%;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.writings p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 0.925rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 90%;
+    text-align: justify;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+/* where we are page styles mobile view  */
+
+
+.Second-content{
+    padding: 4% 10%;
+    margin: auto;
+    width: 100%;
+
+}
+
+.Second-content h1{
+    font-size: 1.9375rem;
+
+}
+
+.Second-content p{
+    font-size: 0.925rem;
+    text-align: justify;
+}
+
+
+.Fourth-content{
+    padding: 4% 10%;
+    margin: auto;
+    width: 100%;
+
+}
+
+.Fourth-content h1{
+    font-size: 1.25rem;
+}
+
+.Fourth-content p{
+    font-size: 0.925rem;
+    
+}
+
+
+
+
+
+/* styles for spirituality page  */
+
+.spirituality-second-content{
+    width: 100%;
+    padding-top: 13%;
+}
+
+.spirituality-second-content h1{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: center;
+}
+
+.spirituality-second-content p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 0.925rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: justify;
+    padding-top: 3%;
+}
+
+
+
+
+.spirituality-last-text{
+    width: 100%;
+
+}
+
+.spirituality-last-text h1{
+    width: 100%;
+    margin: auto;
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 1.425rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 5.4375rem */
+    padding-top: 2%;
+    text-align: center;
+}
+
+.spirituality-last-text p{
+
+    color: #003049;
+    font-family: Poppins;
+    font-size: 0.925rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: justify;
+    width: 100%;
+    padding-top: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* styles for vocations page  */
+
+.vocations-second-section{
+    margin: auto;
+    text-align: center;
+}
+
+.vocations-second-section h1{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.vocations-second-section p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 0.925rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+
+
+
+/* contactus page  */
+
+.contactus-last-content{
+    width: 100%;
+    padding-top: 4%;
+    
+}
+
+.contactus-last-content h1{
+    font-size: 2.125rem;
+}
+
+.contactus-last-content p{
+    font-size: 1.1rem;
+}
+
+
+
+
+
+
+
+
+
+
+/* styles for  family page  */
+
+.family-last-content{
+    width: 100%;
+    margin: auto;
+    padding-bottom: 5%;
+}
+
+.family-last-content h1{
+    color: #003049;
+    text-align: center;
+    font-family: Abril Fatface;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    margin: auto;
+}
+
+.family-last-content p{
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 0.925rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: center;
+    margin: auto;
+    padding-top: 3%;
+}
+
+
+
+
+
+}

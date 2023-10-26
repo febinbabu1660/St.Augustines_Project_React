@@ -1,0 +1,561 @@
+
+.navbar-white{
+    position: absolute;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    background: transparent;
+    color: white;
+
+}
+
+.navbar-logo{
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+
+
+.navbar-toggler-icon-1-white{
+    font-size: 1.7rem!important;
+    color: #ffffff !important;
+    padding-left: 10%;
+}
+
+
+
+.navbar-nav{
+    width: 100%;
+}
+
+
+
+
+
+.nav-link-white{
+    color: #ffffff !important;
+    font-family: Poppins ;
+    font-size: 1.25rem !important;
+    font-style: normal;
+    font-weight: 400 !important;
+    line-height: normal;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center ;
+    padding-left: 5% !important;
+   
+}
+
+
+
+.nav-links-mobile{
+    display: none;
+}
+
+
+.navbar-white-button{
+    width: 4rem;
+    height: 3.2rem;
+    text-decoration: none;
+    border: none;
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+ .nv-modal{
+    width: 90%;
+    overflow: hidden;
+}
+
+ .modalbody{
+    width: 100% !important;
+    height: 40rem !important;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+
+    
+
+}
+
+.modal-content{
+    width: 70% !important;
+    height: 37rem !important;
+}
+
+
+
+.modal-list{
+    list-style: none;
+
+    margin: auto;
+    margin-top: 5% !important;
+
+}
+
+  /* Customize the modal animation */
+  @keyframes slideInRight {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(70%);
+    }
+  }
+
+  /* Apply the animation to the modal */
+  .modal.slide-right .modal-dialog {    
+    animation: slideInRight 0.5s forwards;
+  }
+
+
+  
+
+
+.items-blue{
+    width: 90% !important;
+    height: 4.0625rem;
+    flex-shrink: 0;
+    border-radius: 2.8125rem;
+    background: #003049;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 5% !important;
+}
+
+.items-red{
+    width: 90% !important;
+    height: 4.0625rem;
+    flex-shrink: 0;
+    border-radius: 2.8125rem;
+    background: #780000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 5% !important;
+
+}
+
+
+
+.toggle-link{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+
+    margin: 5%;
+    padding: 5%;
+    text-align: center;
+    
+}                                              
+.link-toggle{
+
+    color: #FFF;
+}
+
+.link-toggle:hover{
+
+    color: #FFF;
+}
+
+
+
+    /* for tablets  */
+    @media (min-width: 768px) and (max-width: 1023px) {
+    
+        .navbar-logo{
+            font-size: 2.5rem;
+            font-weight: 900;
+        }
+        
+        
+    .navbar-white{
+        position: absolute;
+        top: 0;
+        z-index: 1000;
+        width: 100%;
+        background: transparent;
+        color: white;
+    
+    }
+    
+    .navbar-toggler{
+        color: transparent !important;
+        width: 10%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        font-size: 1.2rem;
+    
+    }
+    
+    .navbar-toggler-icon{
+        color: #FFF !important;
+        font-size: 1.7rem;
+    }
+    
+
+        .nav-contents{
+            color: #930606 !important;
+            font-family: Poppins ;
+            font-size: 1.25rem !important;
+            font-style: normal;
+            font-weight: 400 !important;
+            line-height: normal;
+            display: flex !important;
+            justify-content: space-between !important;
+            align-items: center ;
+            background-color: #bebebe !important;
+            padding-left: 0;
+        
+        }
+
+        
+        .navbar-toggler-icon-1{
+            font-size: 1.7rem !important;
+            color: #003049 !important;
+        }
+        
+        .nav-items{
+            display: flex;
+            justify-content: flex-end;
+        }
+        
+        
+        .navbar-nav{
+            width: 100%;
+        }
+        
+        
+        .nav-menu{
+            display: grid;
+            grid-template-columns: repeat(6, auto);
+            grid-gap: 19%;
+            list-style: none;
+            align-items: center;
+            margin-right: 18%;
+            width: 40%;
+        }
+        
+        
+        
+        .nav-links:hover{
+            color: rgb(187, 183, 183);
+        
+        }
+        
+        .nav-link{
+            color: #003049 !important;
+            font-family: Poppins !important;
+            font-size: 1.25rem !important;
+            font-style: normal;
+            font-weight: 400 !important;
+            line-height: normal;
+            display: flex !important;
+            justify-content: space-between !important;
+            align-items: center !important;
+            padding-left: 5% !important;
+           
+        }
+        
+        
+        
+        .nav-links-mobile{
+            display: none;
+        }
+        
+        
+        button{
+            width: 2rem;
+            height: 2rem;
+            text-decoration: none;
+            border: none;
+        }
+        button:hover{
+            text-decoration: none;
+        }
+        
+        .toggle-icon{
+            font-size: 1.2rem;
+            color: rgb(13, 8, 43);
+        }
+        
+         .menu-icon{
+            display: none;
+            
+         }
+        
+         .nv-modal{
+            width: 60%;
+            overflow: hidden;
+            text-decoration: none;
+        }
+        
+         .modalbody{
+            width: 18.6875rem;
+            height: 37rem;
+            background-color: white;
+            margin: auto;
+            text-decoration: none !important;
+            text-align: center;
+        
+            
+        
+        }
+        
+        .modal-content{
+            width: 60% !important;
+            height: 30rem !important;
+        }
+        
+        
+        
+        .modal-list{
+            text-decoration: none !important;
+            list-style: none;
+        
+            margin: auto;
+        
+        }
+        
+          /* Customize the modal animation */
+          @keyframes slideInRight {
+            from {
+              transform: translateX(100%);
+            }
+            to {
+              transform: translateX(60%);
+            }
+          }
+        
+          /* Apply the animation to the modal */
+          .modal.slide-right .modal-dialog {    
+            animation: slideInRight 0.5s forwards;
+          }
+        
+        
+          
+        
+        
+        .items-blue{
+            width: 80% !important;
+            height: 3.0625rem !important;
+            flex-shrink: 0;
+            border-radius: 2.8125rem;
+            background: #003049;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        }
+        
+        .items-red{
+            width: 80% !important;
+            height: 3.0625rem !important;
+            flex-shrink: 0;
+            border-radius: 2.8125rem;
+            background: #780000;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        }
+        
+        
+        
+        .toggle-link{
+            color: #ffffff !important;
+            font-family: Poppins;
+            font-size: 1.5rem !important;
+            font-style: normal;
+            font-weight: 600;
+            line-height: normal;
+            text-transform: uppercase;
+        
+            margin: 5%;
+            padding: 5%;
+            text-align: center;
+        }                                              
+        .link-toggle{
+        
+            color: #ffffff !important;
+            font-size: 1.4rem !important;
+
+        }
+        
+        .link-toggle:hover{
+            
+            color: #FFF;
+        }
+        
+        
+
+    }
+
+
+
+
+    /* styles for mobile  */
+
+@media (max-width: 767px) {
+    
+    .navbar-white{
+        position: absolute;
+        top: 0;
+        z-index: 1000;
+        width: 100%;
+        background: transparent;
+        color: white;
+    
+    }
+    
+    
+
+.nav-contents{
+    color: #ffffff !important;
+    font-family: Poppins ;
+    font-size: 1.25rem !important;
+    font-style: normal;
+    font-weight: 400 !important;
+    line-height: normal;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center ;
+    background-color: #bebebe !important;
+   
+}
+
+.navbar-toggler{
+    color: transparent !important;
+    width: 15%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 1rem !important;
+    background-color: white !important;
+
+}
+
+.navbar-toggler-icon{
+    color: #FFF !important;
+    font-size: 2rem;
+}
+
+
+
+
+
+.modal-content{
+    width: 90% !important;
+    height: 30rem !important;
+    margin-right: 92%;
+}
+
+
+
+.nv-modal{
+    width: 100%;
+    margin-left: 2%;
+    margin-right: 90%;
+}
+
+ .modalbody{
+    width: 90%;
+    height: 28rem;
+    background-color: transparent !important;
+    margin: auto;
+    text-decoration: none !important;
+    text-align: center;
+
+    
+
+}
+
+.modal-content{
+    width: 80% !important;
+    height: 30rem !important;
+}
+
+
+
+.modal-list{
+    text-decoration: none !important;
+    list-style: none;
+
+    margin: auto;
+
+}
+
+  /* Customize the modal animation */
+  @keyframes slideInRight {
+    from {
+      transform: translateX(100%) !important;
+    }
+    to {
+      transform: translateX(60%) !important;
+    }
+  }
+
+  /* Apply the animation to the modal */
+  .modal.slide-right .modal-dialog {    
+    animation: slideInRight 0.8s forwards;
+  }
+
+
+  
+
+
+.items-blue{
+    width: 80% !important;
+    height: 3.0625rem !important;
+    flex-shrink: 0;
+    border-radius: 2.8125rem;
+    background: #003049;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.items-red{
+    width: 80% !important;
+    height: 3.0625rem !important;
+    flex-shrink: 0;
+    border-radius: 2.8125rem;
+    background: #780000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+
+.toggle-link{
+    color: #ffffff !important;
+    font-family: Poppins;
+    font-size: 1.5rem !important;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+
+    margin: 5%;
+    padding: 5%;
+    text-align: center;
+}                                              
+.link-toggle{
+
+    color: #ffffff !important;
+    font-size: 1rem !important;
+
+}
+
+.link-toggle:hover{
+    
+    color: #FFF;
+}
+
+
+
+
+
+
+}

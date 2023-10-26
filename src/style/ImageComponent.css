@@ -1,0 +1,40 @@
+
+
+.Img-div{
+    width: 100%;
+    /* height: 25rem; */
+
+}
+
+.Img-div img{
+    width: 100%;
+}
+
+/* style for about page image banner  */
+.about-page-img img{
+    width: 100%;
+}
+
+/* style for vocations image banner  */
+
+
+.vocations-img-banner{
+    width: 100%;
+}
+
+.vocations-img-banner img{
+    width: 100%;
+}
+
+/* styles for spirituality page  */
+
+
+.spirituality-img-banner{
+
+    width: 100%;
+
+}
+
+.spirituality-img-banner img{
+    width: 100%;
+}

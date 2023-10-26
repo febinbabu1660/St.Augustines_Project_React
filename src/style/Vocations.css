@@ -1,0 +1,860 @@
+.vocations-banner-page{
+    width: 100%;
+    height: 100vh;
+    background-color: #003049;
+    background-image: url("../assests/Images/Rectangle.png");
+    background-position:  top right;
+    background-repeat: no-repeat;
+    background-size: 44rem;
+    overflow: hidden;
+}
+
+
+.vocations-banner-content{
+   position: relative;
+   top: 60%;
+   left: 18%;
+}
+
+
+.vocations-banner-content h1{
+    color: #FFF;
+    font-family: Abril Fatface;
+    font-size: 3.4375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    width: 90%;
+}
+
+.vocations-banner-content span{
+    color: #FFF;
+    font-family: Abril Fatface;
+    font-size: 4.375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+}
+
+.vocations-banner-content p{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+
+    width: 85%;
+    padding-top: 3%;
+}
+
+.vocations-banner-content button{
+    color: #780000;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    width: 12.5rem;
+    height: 3.625rem;
+    flex-shrink: 0;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 1rem;
+    border: none;
+    margin-top: 3%;
+}
+
+
+
+.priest-image{
+    width: 56.5%;
+    position: absolute;
+    top: 17%;
+    bottom: 0;
+    right: 0;
+    overflow: hidden;
+}
+
+.vocations-card{
+    border: none;
+}
+
+.vocations-second-content{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+
+.priest-3{
+    background-image: url("../assests/Images/Frame-priest-3.svg");
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: 40rem;
+    padding-left: 0;
+    height: 52.3rem;
+
+}
+
+.priest-img-3{
+    position: relative;
+    top: 30%;
+    left: 0;
+    width: 80.5%;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.priest-3-content{
+    width: 100%;
+    position: relative;
+    left: -29%;
+    top: 23%;
+
+}
+
+.priest-3-content h3{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 100%;
+
+}
+
+.priest-3-content p{
+    color: #023043;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    width: 100%;
+    text-align: justify;
+}
+
+.priest-3-content button{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 2.1875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    width: 19.625rem;
+    height: 5.6875rem;
+    flex-shrink: 0;
+    border-radius: 1.3125rem;
+    background: #780000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: none;
+    margin-top: 5%;
+    margin-left: 13%;
+}
+
+
+.end-line{
+    height: 2rem;
+    width: 100%;
+    background-color: #003049;
+}
+
+.priest-4{
+    margin-top: 5%;
+    padding: 0;
+
+}
+.priest-4-row{
+    height: 42.5rem;
+    padding: 0;
+    margin-right: 0;
+}
+
+
+.priest-4-content{
+   padding-right: 0;
+
+}
+
+
+.priest-4-content-title{
+    color: #000;
+    font-family: Abril Fatface;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    padding-left: 3%;
+    width: 90%;
+}
+
+.priest-4-content-text{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    padding-left: 3%;
+    text-align: justify;
+    width: 80%;
+    overflow: hidden;
+}
+
+.priest-img-4{
+    width: 100%;
+    height: 41.5rem;
+    padding: 0;
+    margin: 0;
+}
+
+.sub-imgs{
+    width: 100%;
+}
+
+.priest-5{
+    margin-top: 5%;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+
+
+}
+
+
+.priest-img-5{
+    width: 100%;
+    height: 41.5rem;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+
+.priest-5-row{
+    height: 42.5rem;
+    padding: 0;
+    margin-right: 0;
+    margin-bottom: 5%;
+
+}
+
+
+.priest-5-content-title{
+    color: #000;
+    text-align: left;
+    font-family: Abril Fatface;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    width: 70%;
+    padding-left: 10%;
+}
+
+.priest-5-content-text{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: justify;
+    width: 100%;
+    padding-left: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    /* for tablets  */
+    @media (min-width: 768px) and (max-width: 1023px) {
+    
+
+        .vocations-banner-page{
+            width: 100%;
+            height: 28rem;
+            background-color: #003049;
+            background-image: url("../assests/Images/Rectangle.png");
+            background-position:  top right;
+            background-repeat: no-repeat;
+            background-size: 40%;
+            overflow: hidden;
+        }
+        
+        
+        .vocations-banner-content{
+           position: relative;
+           top: 45%;
+           left: 18%;
+        }
+        
+        
+        .vocations-banner-content h1{
+            font-size: 2.4375rem;
+            width: 99%;
+        }
+        
+        .vocations-banner-content span{
+            font-size: 3.1rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            width: 99%;
+        
+        }
+        
+        .vocations-banner-content p{
+            font-size: 1rem;
+            width: 90%;
+            padding-top: 3%;
+        }
+        
+        .vocations-banner-content button{
+            color: #780000;
+            font-family: Poppins;
+            font-size: 1.25rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+            width: 10.5rem;
+            height: 3.625rem;
+            flex-shrink: 0;
+            filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+            border-radius: 1rem;
+            border: none;
+            margin-top: 3%;
+        }
+        
+        
+        
+        .priest-image{
+            width: 56.5%;
+            position: absolute;
+            top: 12%;
+            bottom: 0;
+            right: 0;
+            overflow: hidden;
+        }
+        
+        .vocations-card{
+            border: none;
+        }
+        
+        .vocations-second-content{
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+        
+        
+        
+        .priest-3{
+            background-image: url("../assests/Images/Frame-priest-3.svg");
+            background-position: top left;
+            background-repeat: no-repeat;
+            background-size: 40%;
+            padding-left: 0;
+            height: 29.2rem;
+        
+        }
+        
+        .priest-img-3{
+            position: relative;
+            top: 36.5%;
+            left: 0;
+            width: 80.5%;
+            padding-left: 0;
+            margin-left: 0;
+        }
+        
+        .priest-3-content{
+            width: 120%;
+            position: relative;
+            left: -35%;
+            top: 15%;
+        
+        }
+        
+        .priest-3-content h3{
+            color: #003049;
+            font-family: Abril Fatface;
+            font-size: 2.125rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+        }
+        
+        .priest-3-content p{
+            color: #023043;
+            font-family: Poppins;
+            font-size: 1rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+            width: 100%;
+            text-align: justify;
+        }
+        
+        .priest-3-content button{
+            color: #FFF;
+            font-family: Poppins;
+            font-size: 1.3rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+            width: 10.625rem;
+            height: 3.6875rem;
+            flex-shrink: 0;
+            border-radius: 1.3125rem;
+            background: #780000 !important;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            border: none;
+            margin-top: 5%;
+            margin-left: 5%;
+        }
+        
+        
+        .end-line{
+            height: 2rem;
+            width: 100%;
+            background-color: #003049;
+        }
+        
+        .priest-4{
+            margin-top: 5%;
+            padding: 0;
+            overflow: hidden;
+        
+        }
+        .priest-4-row{
+            height: 30.5rem;
+            padding: 0;
+            overflow: hidden !important;
+            width: 100%;
+            margin-left: 0%;
+            padding-left: 8%;
+            margin: 0 !important;
+        }
+        
+        
+        .priest-4-content{
+           padding-right: 0;
+           height: 100%;
+        
+        }
+        
+        
+        .priest-4-content-title{
+            color: #000;
+            font-family: Abril Fatface;
+            font-size: 2.125rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+            padding-left: 3%;
+            width: 90%;
+        }
+        
+        .priest-4-content-text{
+            color: #003049;
+            font-family: Poppins;
+            font-size: 1rem !important;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            
+            padding-left: 0%;
+            text-align: justify !important;
+            width: 100%;
+            overflow: hidden;
+        }
+        
+        .priest-img-4{
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        
+     
+        
+        .col-sub-imgs{
+            display: none;
+        }
+
+
+        .priest-5{
+            margin-top: 5%;
+        }
+        
+        .priest-5-row{
+            height: 30.5rem;
+            padding: 0;
+            overflow: hidden !important;
+            width: 100%;
+            margin-left: 0%;
+            padding-left: 10%;
+            margin: 0 !important;
+            margin-top: 5% !important;
+            margin-bottom: 5% !important;
+            overflow: hidden !important;
+        }
+        .priest-img-5{
+            width: 110%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        
+     
+        
+        .priest-5-content-title{
+            color: #000;
+            text-align: left;
+            font-family: Abril Fatface;
+            font-size: 2.125rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+            width: 90%;
+            padding-left: 5%;
+        }
+        
+        .priest-5-content-text{
+            color: #003049;
+            font-family: Poppins;
+            font-size: 1rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            width: 100%;
+            padding-left: 5%;
+            text-align: justify;
+        }
+        
+        
+        
+        
+        
+     
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* responsive code for mobile view  */
+
+
+    @media (max-width: 767px) {
+
+        .vocations-banner-page{
+            width: 100%;
+            height: 100vh;
+            background-color: #003049;
+            background-image: url("../assests/Images/Rectangle.png");
+            background-position:  right;
+            background-repeat: no-repeat;
+            background-size: 0%;
+            overflow: hidden;
+        }
+        
+        
+        .vocations-banner-content{
+           position: relative;
+           top: 25%;
+           left: 5%;
+        }
+        
+        
+        .vocations-banner-content h1{
+            color: #FFF;
+            font-family: Abril Fatface;
+            font-size: 2.4375rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+            width: 80%;
+        }
+        
+        .vocations-banner-content span{
+            color: #FFF;
+            font-family: Abril Fatface;
+            font-size: 3.375rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+        }
+        
+        .vocations-banner-content p{
+            color: #FFF;
+            font-family: Poppins;
+            font-size: 1rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            text-transform: capitalize;
+        
+            width: 85%;
+            padding-top: 5%;
+        }
+        
+        .vocations-banner-content button{
+            color: #780000;
+            font-family: Poppins;
+            font-size: 1.25rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+            width: 12.5rem;
+            height: 3.625rem;
+            flex-shrink: 0;
+            filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+            border-radius: 1rem;
+            border: none;
+            margin-top: 3%;
+        }
+        
+        
+        
+        .priest-image{
+            display: none;
+        }
+        
+        .vocations-card{
+            border: none;
+        }
+        
+        .vocations-second-content{
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+        
+        
+        
+        .priest-3{
+            background-image: url("../assests/Images/Frame-priest-3.svg");
+            background-position: top left;
+            background-repeat: no-repeat;
+            background-size: 0%;
+            padding-left: 0;
+            height: 16.5rem;
+        
+        }
+        
+        .priest-img-3{
+            position: relative;
+            top: 35%;
+            left: 0;
+            width: 90.5%;
+            padding-left: 0;
+            margin-left: 0;
+            display: none;
+        }
+        
+        .priest-3-content{
+            width: 90%;
+            position: relative;
+            left: 5%;
+            top: 5%;
+            height: 15rem;
+        
+        }
+        
+        .priest-3-content h3{
+            color: #003049;
+            font-family: Abril Fatface;
+            font-size: 1.5rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+        }
+        
+        .priest-3-content p{
+            color: #023043;
+            font-family: Poppins;
+            font-size: 0.925rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+            width: 100%;
+            text-align: justify;
+        }
+        
+        .priest-3-content button{
+            color: #FFF;
+            font-family: Poppins;
+            font-size: 0.875rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+            width: 8.625rem;
+            height: 3rem;
+            flex-shrink: 0;
+            border-radius: 1.3125rem;
+            background: #780000;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            border: none;
+            margin-top: 5%;
+            margin-left: 25%;
+        }
+        
+        
+        .end-line{
+            height: 2rem;
+            width: 100%;
+            background-color: #003049;
+            margin-top: 20%;
+        }
+        
+        .priest-4{
+            margin-top: 5%;
+            padding: 0;
+        
+        }
+        .priest-4-row{
+            height: 50.5rem;
+            padding: 0;
+            margin-right: 0;
+        }
+        
+        
+        .priest-4-content{
+           padding-right: 0;
+        
+        }
+        
+        
+        .priest-4-content-title{
+            color: #000;
+            font-family: Abril Fatface;
+            font-size: 1.5rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+        
+            padding-left: 3%;
+            width: 90%;
+        }
+        
+        .priest-4-content-text{
+            color: #003049;
+            font-family: Poppins;
+            font-size: 0.925rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            
+            padding-left: 3%;
+            text-align: justify;
+            width: 100%;
+            overflow: hidden;
+            padding-right: 3%;
+
+        }
+        
+        .priest-img-4{
+            width: 100%;
+            height: 22.5rem;
+            padding-left: 3%;
+            margin: 0;
+        }
+        
+        .sub-imgs{
+            display: none;
+        }
+        
+        .priest-5{
+            margin-top: 5%;
+        }
+        
+        .priest-5-row{
+            height: 50.5rem;
+            padding: 0;
+            margin-right: 0;
+        }
+        .priest-img-5{
+            width: 100%;
+            height: 22.5rem;
+            padding-left: 3%;
+            margin: 0;
+        }
+        
+        
+        .priest-5-content-title{
+            color: #000;
+        text-align: left;
+        font-family: Abril Fatface;
+        font-size: 1.5rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        
+        width: 90%;
+        padding-left: 5%;
+
+        }
+        
+        .priest-5-content-text{
+            color: #003049;
+            font-family: Poppins;
+            font-size: 0.925rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            text-align: justify;
+            width: 100%;
+            padding-left: 5%;
+            padding-right: 3%;
+        }
+        
+        
+        
+        
+        
+
+        
+    }
+

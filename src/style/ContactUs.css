@@ -1,0 +1,1222 @@
+
+.second-section{
+    width: 100%;
+    padding-top: 4%;
+}
+
+.second-section h3{
+    color: #003049;
+    font-family: Abril Fatface;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: center;
+}
+
+.second-section-p{
+    color: #003049;
+    font-family: Poppins;
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: justify;
+    width: 100%;
+    padding: 3% 1%;
+    margin: auto;
+}
+
+
+.first-container{
+    height: 13.25rem;
+    flex-shrink: 0;
+    border-radius: 0rem 3.625rem 0rem 0rem;
+    background: #780000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+    display: flex;
+    align-items: center; /* Center items vertically */
+}
+
+.one,.two, .three, .four{
+    color: #000;
+    font-family: Abril Fatface;
+    font-size: 5.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 40%;
+    padding-top: 25%;
+}
+
+.four{
+    padding-left: 35%;
+
+}
+.two, .three{
+    padding-left: 38%;
+}
+
+
+.column-1 {
+
+    background: url("../assests/Images/Ellipse\ 10.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 85%;
+    width: 30%;
+    height: 100%;
+
+    /* flex: 0 0 auto; 
+    margin-right: 10px;  */
+}
+
+.column-2 {
+    flex: 1; /* Grow to fill available space */
+}
+
+
+.first-container img{
+    display: inline;
+
+    width: 10.5rem;
+    height: 12.5rem;
+    flex-shrink: 0;
+    padding: 5%;
+ z-index: 0;
+    margin-left: 6%;
+}
+
+
+.first-container-p{
+    display: inline;
+
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-right: 3%;
+    margin: 0;
+    text-align: justify;
+}
+
+.second-container{
+    height: 13.25rem;
+    flex-shrink: 0;
+    border-radius: 0rem 3.625rem 0rem 0rem;
+    background: #003049;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+    display: flex;
+    align-items: center; /* Center items vertically */
+}
+
+
+.second-container img{
+    display: inline;
+
+    width: 10.5rem;
+    height: 12.5rem;
+    flex-shrink: 0;
+    padding: 5%;
+    margin-left: 6%;
+}
+
+
+.second-container-p{
+    display: inline;
+
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-right: 3%;
+    margin: 0;
+    text-align: justify;
+}
+
+.first-container-row-2{
+    height: 13.25rem;
+    flex-shrink: 0;
+    border-radius: 0rem 3.625rem 0rem 0rem;
+    background: #003049;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+    display: flex;
+    align-items: center; /* Center items vertically */ 
+}
+
+.first-container-row-2 img{
+    display: inline;
+
+    width: 10.5rem;
+    height: 12.5rem;
+    flex-shrink: 0;
+    padding: 5%;
+    margin-left: 6%;
+}
+
+
+.first-container-row-2 p{
+    display: inline;
+
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-right: 3%;
+    margin: 0;
+    text-align: justify;
+}
+
+
+.second-container-row-2{
+    height: 13.25rem;
+    flex-shrink: 0;
+    border-radius: 0rem 3.625rem 0rem 0rem;
+    background: #780000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+    display: flex;
+    align-items: center; /* Center items vertically */ 
+}
+
+.second-container-row-2 img{
+    display: inline;
+
+    width: 10.5rem;
+    height: 12.5rem;
+    flex-shrink: 0;
+    padding: 5%;
+    margin-left: 6%;
+}
+
+
+.second-container-row-2 p{
+    display: inline;
+
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-right: 3%;
+    margin: 0;
+    text-align: justify;
+}
+
+
+
+.contactus-third-section{
+    width: 100%;
+    height: 70rem;
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    background-color: #D9D9D9;
+}
+
+.contactus-form-div{
+    width: 100%;
+    background-color: #003049;
+    height: 100%;
+    flex-shrink: 0;
+    margin-top: 7%;
+    padding-top: 3%;
+    padding-left: 16%;
+    padding-right: 16%;
+    padding-bottom: 4%;
+    }
+
+.contactus-form-div h2{
+    color: #FFF;
+    font-family: Abril Fatface;
+    font-size: 3.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+
+    padding-bottom: 4%;
+}
+
+
+
+
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .row {
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 15px;
+    }
+    
+    .col {
+        flex: 1;
+        margin-right: 10px;
+        
+    }
+    .contactus-phone-input {
+        display: flex;
+        align-items: center;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        overflow: hidden;
+    }
+    
+    .contactus-input-group {
+        display: flex;
+        flex-grow: 1;
+    }
+    
+    .contactus-country-code {
+        flex-grow: 1;
+        background-repeat: no-repeat;
+        background-size: 20px;
+        background-position: 10px center;
+        padding-left: 0%;
+        position: relative;
+    }
+    
+    .contactus-country-code select {
+        width: 100%;
+        padding: 10px;
+        border: none;
+        background: white;
+        appearance: none;
+        font-size: 1.2rem;
+    }
+    
+    .contactus-phone-number {
+        flex-grow: 3;
+    }
+    
+    .contactus-phone-number input.form-control[type="tel"]
+    {
+        width: 100%;
+        padding: 10px;
+        border: none;
+        background: white;
+        appearance: none;
+        outline: none;
+        height: 100%;
+    }
+    
+    /* Add more CSS rules for other country codes and flag images */
+    
+    /* Apply the same style to all text boxes and textarea */
+    .contactus-fname,
+    .contactus-lname,
+    .contactus-email,
+    .contactus-select,
+    .contactus-btn {
+        width: 100%;
+        padding: 10px;
+        height: 3.5rem;
+        
+        appearance: none;
+        outline: none;
+
+        border-radius: 0.625rem;
+        border: 1px solid var(--basic-green, #1B6263);
+        background: #FFF !important;
+
+
+        color: var(--Basic-para, #656464);
+        font-family: Poppins;
+        font-size: 0.9375rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5rem; /* 160% */
+        letter-spacing: 0.018rem;
+    }
+    
+    .contactus-textarea{
+        height: 5.5rem;
+        width: 100%;
+        padding: 10px;
+        
+        appearance: none;
+        outline: none;
+
+        border-radius: 0.625rem;
+        border: 1px solid var(--basic-green, #1B6263);
+        background: #FFF !important;
+
+
+        color: var(--Basic-para, #656464);
+        font-family: Poppins;
+        font-size: 0.9375rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5rem; /* 160% */
+        letter-spacing: 0.018rem;
+
+    }
+
+    .contactus-btn {
+        border-radius: 0.625rem ;
+        background: #C0EAFF !important;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+
+        color: #003049 !important;
+        font-family: Poppins;
+        font-size: 0.9375rem !important;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    
+    .contactus-btn:hover {
+        background-color: #0056b3;
+    }
+
+
+.map img{
+    width: 100%;
+}
+
+.lastSection{
+    margin-bottom: 5%;
+
+}
+
+.contactus-last-cards{
+    width: 100%;
+    border: 2px;
+    height: 26rem !important;
+    margin-top: 40%;
+}
+
+.contactus-last-card-img{
+    
+    margin: auto;
+    transform: translateY(-35%);
+    display: flex;
+    justify-content: center;
+    width: 80% !important;
+    height: 16rem;
+    flex-shrink: 0;
+}
+
+
+.contactus-last-cards-body{
+    border-radius: 0rem 0rem 4.3125rem 4.3125rem;
+    background: #003049;
+    height: 24rem;
+    padding-top: 0%;
+    margin: auto;
+}
+
+.contactus-last-card-content{
+    transform: translateY(-30%);
+}
+
+.contactus-last-cards-title{
+    color: #FFF !important;
+    font-family: Abril Fatface !important;
+    font-size: 1.875rem !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    text-align: center;
+}
+.star-img{
+    width: 85%;
+    margin: auto;
+    padding-left: 15%;
+}
+  
+.contactus-last-cards-text{
+    color: #FFF !important;
+    text-align: center !important;
+    font-family: Poppins;
+    font-size: 0.9375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 80% !important;
+    margin: auto;
+    padding-top: 5%;
+    padding-bottom: 15%;
+    
+
+
+}
+
+
+
+    /* for tablets  */
+    @media (min-width: 768px) and (max-width: 1023px) {
+    
+
+      
+
+    
+    .second-section{
+        width: 100%;
+        padding-top: 4%;
+    }
+    
+    .second-section h3{
+        font-size: 2.125rem;
+    }
+    
+    .second-section-p{
+        font-size: 0.975rem;
+    }
+    
+    
+        
+        .first-container{
+            height: 13.25rem;
+            flex-shrink: 0;
+            border-radius: 0rem 3.625rem 0rem 0rem;
+            background: #780000;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        
+            display: flex;
+            align-items: center; /* Center items vertically */
+        }
+        
+        .one,.two, .three, .four{
+            color: #000;
+            font-family: Abril Fatface;
+            font-size: 3.125rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            padding-left: 38%;
+            padding-top: 69%;
+        }
+        
+        
+        .four{
+            padding-left: 35%;
+        
+        }
+        .two, .three{
+            padding-left: 38%;
+        }
+        
+        
+        .column-1 {
+        
+            background: url("../assests/Images/Ellipse\ 10.svg");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 85%;
+            width: 30%;
+            height: 100%;
+        
+            /* flex: 0 0 auto; 
+            margin-right: 10px;  */
+        }
+        
+        .column-2 {
+            flex: 1; /* Grow to fill available space */
+        }
+        
+        
+        .first-container img{
+            display: inline;
+        
+            width: 8.5rem;
+            height: 8.5rem;
+        }
+        
+        
+        .first-container-p{
+            display: inline;
+        
+            color: #FFF;
+            font-family: Poppins;
+            font-size: 0.875rem;
+            margin: 0;
+            text-align: justify;
+        }
+        
+        .second-container{
+            height: 13.25rem;
+            flex-shrink: 0;
+            border-radius: 0rem 3.625rem 0rem 0rem;
+            background: #003049;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        
+            display: flex;
+            align-items: center; /* Center items vertically */
+        }
+        
+        
+        .second-container img{
+            display: inline;
+        
+            width: 10.5rem;
+            height: 12.5rem;
+            flex-shrink: 0;
+            padding: 5%;
+            margin-left: 6%;
+        }
+        
+        
+        .second-container-p{
+            font-size: 0.825rem;
+        }
+        
+        .first-container-row-2{
+            height: 13.25rem;
+            flex-shrink: 0;
+            border-radius: 0rem 3.625rem 0rem 0rem;
+            background: #003049;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        
+            display: flex;
+            align-items: center; /* Center items vertically */ 
+        }
+        
+        .first-container-row-2 img{
+            display: inline;
+    
+            width: 8.5rem;
+            height: 8.5rem;
+        }
+        
+        
+        .first-container-row-2 p{
+            font-size: 0.825rem;
+
+        }
+        
+        
+        .second-container-row-2{
+            height: 13.25rem;
+            flex-shrink: 0;
+            border-radius: 0rem 3.625rem 0rem 0rem;
+            background: #780000;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+        
+            display: flex;
+            align-items: center; /* Center items vertically */ 
+        }
+        
+        .second-container-row-2 img{
+            display: inline;
+    
+            width: 8.5rem;
+            height: 8.5rem;
+            flex-shrink: 0;
+            padding: 5%;
+            margin-left: 6%;
+        }
+        
+        
+        .second-container-row-2 p{
+            font-size: 0.825rem;
+
+        }
+        
+        
+        
+        .contactus-third-section{
+            width: 100%;
+            height: 53rem;
+            margin-top: 5%;
+            padding-top: 1%;
+            padding-bottom: 5%;
+            background-color: #D9D9D9;
+        }
+        
+        .contactus-form-div{
+            width: 100%;
+            background-color: #003049;
+            height: 100%;
+            padding: 6% 16%;
+            flex-shrink: 0;
+            margin-top: 7%;
+           
+            }
+        
+        .contactus-form-div h2{
+            font-size: 2.125rem;
+            padding-bottom: 4%;
+        }
+        
+        
+        
+        
+            form {
+                display: flex;
+                flex-direction: column;
+            }
+            
+            .row {
+                display: flex;
+                flex-direction: row;
+                margin-bottom: 15px;
+            }
+            
+            .col {
+                flex: 1;
+                margin-right: 10px;
+                
+            }
+            .contactus-phone-input {
+                display: flex;
+                align-items: center;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                overflow: hidden;
+            }
+            
+            .contactus-input-group {
+                display: flex;
+                flex-grow: 1;
+            }
+            
+            .contactus-country-code {
+                flex-grow: 1;
+                background-repeat: no-repeat;
+                background-size: 20px;
+                background-position: 10px center;
+                padding-left: 0%;
+                position: relative;
+            }
+            
+            .contactus-country-code select {
+                width: 100%;
+                padding: 10px;
+                border: none;
+                background: white;
+                appearance: none;
+                font-size: 0.875rem;
+            }
+            
+            .contactus-phone-number {
+                flex-grow: 3;
+            }
+            
+            .contactus-phone-number  input.form-control[type="tel"]
+            {
+                width: 100%;
+                padding: 10px;
+                border: none;
+                background: white;
+                appearance: none;
+                outline: none;
+            }
+            
+            /* Add more CSS rules for other country codes and flag images */
+            
+            /* Apply the same style to all text boxes and textarea */
+            .contactus-fname,
+            .contactus-lname,
+            .contactus-email,
+            .contactus-select,
+            .contactus-btn {
+                font-size: 0.875rem;
+            }
+            
+            .contactus-textarea{
+                height: 5.5rem;
+                width: 100%;
+                padding: 10px;
+                
+                appearance: none;
+                outline: none;
+        
+                border-radius: 0.625rem;
+                border: 1px solid var(--basic-green, #1B6263);
+                background: #FFF;
+        
+        
+                color: var(--Basic-para, #656464);
+                font-family: Poppins;
+                font-size: 0.875rem;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 1.5rem; /* 160% */
+                letter-spacing: 0.018rem;
+        
+            }
+        
+            .contactus-button {
+                border-radius: 0.625rem;
+                background: #C0EAFF;
+                border: none;
+                cursor: pointer;
+                width: 100%;
+        
+                color: #003049;
+                font-family: Poppins;
+                font-size: 0.9375rem;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+            }
+            
+            .contactus-button:hover {
+                background-color: #0056b3;
+            }
+        
+        
+        .map img{
+            width: 98%;
+        }
+        
+        .lastSection{
+            height: 100% !important;
+            margin-bottom: 5%;
+        
+        }
+        
+        .contactus-last-cards{
+            width: 100%;
+            border: 2px;
+            height: 24rem !important;
+            margin-top: 40%;
+        }
+        
+        .contactus-last-card-img{
+            
+            transform: translateY(-35%);
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            height: auto;
+            flex-shrink: 0;
+        }
+        
+        
+        .contactus-last-cards-body{
+            border-radius: 0rem 0rem 3rem 3rem;
+            background: #003049;
+            height: 25rem;
+            padding-top: 0%;
+            margin: auto;
+            width: 100%;
+        }
+        
+        .contactus-last-card-content{
+            transform: translateY(-20%);
+        }
+        
+        .contactus-last-cards-title{
+            font-size: 1.5rem !important;
+            text-align: center;
+            color: #FFF !important;
+        }
+        .star-img{
+            width: 85%;
+            margin: auto;
+            padding-left: 15%;
+        }
+          
+        .contactus-last-cards-text{
+            font-size: 0.975rem !important;
+            width: 90% !important;
+        
+        }
+        
+
+
+    }
+
+
+
+
+    /* responsive code for mobile view  */
+
+
+    @media (max-width: 767px) {
+    
+  
+    
+        .second-section{
+            width: 100%;
+            padding-top: 4%;
+        }
+        
+        .second-section h3{
+            font-size: 1.5rem;
+        }
+        
+        .second-section-p{
+            font-size: 0.875rem;
+        }
+        
+        
+            
+            .first-container{
+                height: 13.25rem;
+                flex-shrink: 0;
+                border-radius: 0rem 3.625rem 0rem 0rem;
+                background: #780000;
+                box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            
+                display: flex;
+                align-items: center; /* Center items vertically */
+            }
+            
+            .one,.two, .three, .four{
+                color: #000;
+                font-family: Abril Fatface;
+                font-size: 3.125rem;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                padding-left: 38%;
+                padding-top: 69%;
+            }
+            
+            
+            .four{
+                padding-left: 35%;
+            
+            }
+            .two, .three{
+                padding-left: 38%;
+            }
+            
+            
+            .column-1 {
+            
+                background: url("../assests/Images/Ellipse\ 10.svg");
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: 85%;
+                width: 30%;
+                height: 100%;
+            
+                /* flex: 0 0 auto; 
+                margin-right: 10px;  */
+            }
+            
+            .column-2 {
+                flex: 1; /* Grow to fill available space */
+            }
+            
+            
+            .first-container img{
+                display: inline;
+            
+                width: 8.5rem;
+                height: 8.5rem;
+            }
+            
+            
+            .first-container-p{
+                display: inline;
+            
+                color: #FFF;
+                font-family: Poppins;
+                font-size: 0.875rem;
+                margin: 0;
+                text-align: justify;
+            }
+            
+            .second-container{
+                height: 13.25rem;
+                flex-shrink: 0;
+                border-radius: 0rem 3.625rem 0rem 0rem;
+                background: #003049;
+                box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+                margin-top: 4%;
+                display: flex;
+                align-items: center; /* Center items vertically */
+            }
+            
+            
+            .second-container img{
+                display: inline;
+            
+                width: 10.5rem;
+                height: 12.5rem;
+                flex-shrink: 0;
+                padding: 5%;
+                margin-left: 6%;
+            }
+            
+            
+            .second-container-p{
+                font-size: 0.825rem;
+            }
+            
+            .first-container-row-2{
+                height: 13.25rem;
+                flex-shrink: 0;
+                border-radius: 0rem 3.625rem 0rem 0rem;
+                background: #003049;
+                box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            
+                display: flex;
+                align-items: center; /* Center items vertically */ 
+            }
+            
+            .first-container-row-2 img{
+                display: inline;
+        
+                width: 8.5rem;
+                height: 8.5rem;
+            }
+            
+            
+            .first-container-row-2 p{
+                font-size: 0.825rem;
+    
+            }
+            
+            
+            .second-container-row-2{
+                height: 13.25rem;
+                flex-shrink: 0;
+                border-radius: 0rem 3.625rem 0rem 0rem;
+                background: #780000;
+                box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+                margin-top: 4%;
+                display: flex;
+                align-items: center; /* Center items vertically */ 
+            }
+            
+            .second-container-row-2 img{
+                display: inline;
+        
+                width: 8.5rem;
+                height: 8.5rem;
+                flex-shrink: 0;
+                padding: 5%;
+                margin-left: 6%;
+            }
+            
+            
+            .second-container-row-2 p{
+                font-size: 0.825rem;
+    
+            }
+            
+            
+            
+            .contactus-third-section{
+                width: 100%;
+                height: 41rem;
+                margin-top: 5%;
+                padding-top: 1%;
+                padding-bottom: 5%;
+                background-color: #D9D9D9;
+            }
+            
+            .contactus-form-div{
+                width: 100%;
+                background-color: #003049;
+                height: 100%;
+                padding-right: 1%;
+                padding-left: 3%;
+                margin-right: 0;
+                flex-shrink: 0;
+                margin-top: 7%;
+               
+                }
+            
+            .contactus-form-div h2{
+                font-size: 1.25rem !important;
+                padding-bottom: 4%;
+            }
+            
+            
+            
+            
+                form {
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0;
+                    margin: 0;
+                }
+                
+                .row {
+                    display: flex;
+                    flex-direction: row;
+                    margin-bottom: 15px;
+                }
+                
+                .col {
+                    flex: 1;
+                    margin-right: 10px;
+                    
+                }
+                .contactus-phone-input {
+                    display: flex;
+                    align-items: center;
+                    border: 1px solid #ccc;
+                    border-radius: 5px;
+                    overflow: hidden;
+                }
+                
+                .contactus-input-group {
+                    display: flex;
+                    flex-grow: 1;
+                }
+                
+                .contactus-country-code {
+                    flex-grow: 1;
+                    background-repeat: no-repeat;
+                    background-size: 20px;
+                    background-position: 10px center;
+                    padding-left: 0%;
+                    position: relative;
+                }
+                
+                .contactus-country-code select {
+                    width: 100%;
+                    padding: 10px;
+                    border: none;
+                    background: white;
+                    appearance: none;
+                    font-size: 0.75rem;
+                }
+                
+                .contactus-phone-number {
+                    flex-grow: 3;
+                }
+                
+                .contactus-phone-number     input.form-control[type="tel"]
+                {
+                    width: 100%;
+                    padding: 10px;
+                    border: none;
+                    background: white;
+                    appearance: none;
+                    outline: none;
+                }
+                
+                /* Add more CSS rules for other country codes and flag images */
+                
+                /* Apply the same style to all text boxes and textarea */
+                .contactus-fname,
+                .contactus-lname,
+                .contactus-email,
+                .contactus-select,
+                .contactus-btn {
+                    font-size: 0.75rem;
+                }
+                
+                .contactus-textarea{
+                    height: 4.5rem;
+                    width: 100%;
+                    padding: 10px;
+                    
+                    appearance: none;
+                    outline: none;
+            
+                    border-radius: 0.625rem;
+                    border: 1px solid var(--basic-green, #1B6263);
+                    background: #FFF;
+            
+            
+                    color: var(--Basic-para, #656464);
+                    font-family: Poppins;
+                    font-size: 0.75rem !important;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 1.5rem; /* 160% */
+                    letter-spacing: 0.018rem;
+            
+                }
+            
+                .contactus-button {
+                    border-radius: 0.625rem;
+                    background: #C0EAFF;
+                    border: none;
+                    cursor: pointer;
+                    width: 100%;
+            
+                    color: #003049;
+                    font-family: Poppins;
+                    font-size: 0.875rem;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: normal;
+                }
+                
+                .contactus-button:hover {
+                    background-color: #0056b3;
+                }
+            
+            
+            .map img{
+                width: 98%;
+            }
+            
+            .lastSection{
+                height: 100% !important;
+                margin-bottom: 5%;
+                margin-top: 32%;
+            
+            }
+            
+            .contactus-last-cards{
+                width: 100%;
+                border: 2px;
+                height: 24rem !important;
+                margin-top: 40%;
+            }
+            
+            .contactus-last-card-img{
+                
+                transform: translateY(-35%);
+                display: flex;
+                justify-content: center;
+                width: 85%;
+                flex-shrink: 0;
+            }
+            
+            
+            .contactus-last-cards-body{
+                border-radius: 0rem 0rem 3rem 3rem;
+                background: #003049;
+                height: 15rem;
+                padding-top: 0%;
+                margin: auto;
+                width: 100%;
+            }
+            
+            .contactus-last-card-content{
+                transform: translateY(-20%);
+            }
+            
+            .contactus-last-cards-title{
+                font-size: 1.5rem !important;
+                text-align: center;
+                color: white !important;
+            }
+            .star-img{
+                width: 75% !important;
+                margin: auto;
+                padding-left: 15%;
+            }
+              
+            .contactus-last-cards-text{
+                font-size: 0.75rem !important;
+                width: 90% !important;
+            
+            }
+
+            .mobile-cards-contactus{
+                display: none;
+            }
+            
+
+    }

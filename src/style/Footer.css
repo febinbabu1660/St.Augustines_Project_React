@@ -1,0 +1,455 @@
+
+
+
+.stay-upto-date{
+    background: #780000;
+    width: 100%;
+    height: 8rem;
+}
+
+.stay-updated{
+    color: #FFF;
+    text-align: center;
+    font-family: Abril Fatface;
+    font-size: 2.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5rem; /* 66.667% */
+    letter-spacing: 0.04319rem;
+    width: 100%;
+    padding-top: 3.3%;
+    margin: auto;
+}
+
+.footer-container{
+    background: #003049;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.footer-logo{
+    flex-shrink: 0;
+    padding-top: 3%;
+    padding-left: 20%;
+    width: 90%;
+}
+
+.f-logo{
+    width: 8%;
+    margin: auto;
+    margin-left: 47%;
+
+}
+
+
+
+
+.sentence{
+    padding-bottom: 3%;
+}
+
+.sentence-1{
+    width: 100%;
+    color: #FFF;
+    text-align: center;
+    font-family: Abril Fatface;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5rem; /* 96% */
+    letter-spacing: 0.03rem;
+    padding-top: 3%;
+}
+
+.s-name{
+    color: #FFF;
+    text-align: center;
+    font-family: Abril Fatface;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5rem; /* 120% */
+    letter-spacing: 0.024rem;
+    margin: auto;
+    width: 100%;
+    padding-top: 1%;
+}
+
+
+
+
+.footer-row{
+    padding-left: 2%;
+    width: 100%;
+}
+.footer-heading{
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5rem; /* 133.333% */
+    letter-spacing: 0.02163rem;
+    padding-bottom: 1%;
+}
+
+
+.text-footer{
+    color: var(--basic-white, #FAFAFA);
+    font-family: Cabin;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.4875rem; 
+    text-decoration: none;
+  
+ 
+}
+
+
+.text-footer:hover{
+    color: var(--basic-white, #FAFAFA);
+   
+}
+
+
+
+
+.last-line-footer{
+    margin-top: 3%;
+    align-items: center;
+    padding-top: 0%;
+    margin-bottom: 0% !important;
+    display: flex;
+    vertical-align: middle;
+}
+
+.copyright{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 0.9375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5rem; /* 160% */
+    letter-spacing: 0.018rem;
+}
+
+.privacy{
+    color: var(--basic-white, #FAFAFA);
+    font-family: Raleway;
+    font-size: 0.9375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5rem; /* 160% */
+    letter-spacing: 0.018rem;
+    margin-bottom: 0;
+}
+.social-media-buttons{
+    font-size: 2.5rem;
+    margin-bottom: 0;
+    flex-shrink: 0;
+    padding-top: 4%;
+}
+
+.fa-brands{
+    color: #780000;
+}
+
+.box{
+    padding-top: 3%;
+}
+.quick-links{
+    margin-bottom: 0;
+}
+
+
+
+
+    /* for tablets  */
+    @media (min-width: 768px) and (max-width: 1023px) {
+    
+
+
+
+        .stay-upto-date{
+            background: #780000;
+            width: 100%;
+            height: 6rem;
+        }
+        
+        .stay-updated{
+            font-size: 1.925rem;
+            padding-top: 4%;
+        }
+        
+        .footer-container{
+            background: #003049;
+            width: 100%;
+            height: 100%;
+            margin: auto;
+        }
+        
+        .footer-logo{
+            flex-shrink: 0;
+            padding-top: 3%;
+            padding-left: 10%;
+            width: 99%;
+        }
+        
+        .f-logo{
+            width: 12%;
+            margin: auto;
+            margin-left: 43%;
+        
+        }
+        
+        
+        .sentence{
+            padding-bottom: 3%;
+        }
+        
+        .sentence-1{
+            width: 100%;
+            color: #FFF;
+            text-align: center;
+            font-family: Abril Fatface;
+            font-size: 1.25rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 1.5rem; /* 96% */
+            letter-spacing: 0.03rem;
+            padding-top: 3%;
+        }
+        
+        .s-name{
+            font-size: 1.1rem;
+            margin: auto;
+            width: 100%;
+            padding-top: 1%;
+        }
+        
+        
+        
+        
+        .footer-row{
+            padding-left: 2%;
+            width: 100%;
+        }
+        .footer-heading{
+            color: #ffffff;
+            font-family: Poppins;
+            font-size: 1rem;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 1.5rem; /* 133.333% */
+            letter-spacing: 0.02163rem;
+            padding-bottom: 1%;
+        }
+        
+        
+        .text-footer{
+            color: var(--basic-white, #FAFAFA);
+            font-family: Cabin;
+            font-size: 0.925rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 1.4875rem; 
+            text-decoration: none;
+          
+         
+        }
+        
+        
+        
+        
+        
+        
+        .last-line-footer{
+            margin-top: 5%;
+            align-items: center;
+            padding-top: 5%;
+        }
+        
+        .copyright{
+            color: #FFF;
+            font-family: Poppins;
+            font-size: 0.75rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 1.5rem; /* 160% */
+            letter-spacing: 0.018rem;
+        }
+        
+        .privacy{
+            font-size: 0.75rem;
+        }
+        .social-media-buttons{
+            font-size: 2.5rem;
+            flex-shrink: 0;
+        }
+        
+        .fa-brands{
+            color: #780000;
+        }
+        
+        .box{
+            padding-top: 2%;
+        }
+        .quick-links{
+            margin-bottom: 0;
+        }
+        
+        
+
+
+    }
+
+
+
+
+
+
+    
+
+
+    /* responsive code for mobile view  */
+
+
+@media (max-width: 767px) {
+    
+
+    .stay-upto-date{
+        background: #780000;
+        width: 100%;
+        height: 4rem;
+    }
+    
+    .stay-updated{
+        font-size: 0.925rem;
+        width: 100%;
+        padding-left: 0%;
+        padding-top: 6%;
+        margin: auto;
+    }
+    
+    .footer-container{
+        background: #003049;
+        width: 100%;
+        height: 100%;
+        margin: auto;
+    }
+    
+    .footer-logo{
+        flex-shrink: 0;
+        padding-top: 3%;
+        padding-left: 10%;
+        width: 99%;
+    }
+    
+    .f-logo{
+        width: 12%;
+        margin: auto;
+        margin-left: 43%;
+    
+    }
+    
+    
+    .sentence{
+        padding-bottom: 3%;
+    }
+    
+    .sentence-1{
+        width: 100%;
+        color: #FFF;
+        text-align: center;
+        font-family: Abril Fatface;
+        font-size: 1.25rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5rem; /* 96% */
+        letter-spacing: 0.03rem;
+        padding-top: 3%;
+    }
+    
+    .s-name{
+        font-size: 1.1rem;
+        margin: auto;
+        width: 100%;
+        padding-top: 1%;
+    }
+    
+    
+    
+    
+    .footer-row{
+        padding-left: 2%;
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        padding-top: 10%;
+    }
+    .footer-heading{
+        color: #ffffff;
+        font-family: Poppins;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5rem; /* 133.333% */
+        letter-spacing: 0.02163rem;
+        padding-bottom: 1%;
+        padding-top: 3%;
+    }
+    
+    
+    .text-footer{
+        color: var(--basic-white, #FAFAFA);
+        font-family: Cabin;
+        font-size: 0.925rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.4875rem; 
+        text-decoration: none;
+      
+     
+    }
+    
+    
+    
+    
+    
+    
+    .last-line-footer{
+        margin-top: 5%;
+        align-items: center;
+        padding-top: 5%;
+    }
+    
+    .copyright{
+        color: #FFF;
+        font-family: Poppins;
+        font-size: 0.75rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5rem; /* 160% */
+        letter-spacing: 0.018rem;
+    }
+    
+    .privacy{
+        font-size: 0.75rem;
+    }
+    .social-media-buttons{
+        font-size: 2.5rem;
+        flex-shrink: 0;
+    }
+    
+    .fa-brands{
+        color: #780000;
+    }
+    
+
+
+
+
+
+}
